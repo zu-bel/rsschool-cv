@@ -14,3 +14,17 @@ In my life I constantly have to learn a lot on my own:
 Skills: 
 - basics of HTML;
 - basics of languages.
+
+Code examples: exercise "Can we divide it?"
+
+    function isDivideBy(number, a, b) {
+        if (number % a == 0 && number % b ==0) 
+        return true
+        else return false
+    }
+
+Work experience: none.
+
+Education: related to web development - none. I took courses from Youtube.
+
+English: A2 (result of the EPAM test platform).
