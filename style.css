@@ -121,6 +121,7 @@ img {
 }
 .mini {
     padding: 10px auto;
+    max-width: 25%;
     
 }
 .mini-head {
@@ -129,7 +130,9 @@ img {
 }
 .mini-body {
     font-size: 16px;
-    
+}
+.eng{
+    text-align: center; 
 }
 
 .code {
