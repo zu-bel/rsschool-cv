@@ -1,0 +1,160 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+p {
+    font-size: 16px;
+}
+
+.wrapper {
+    margin: 0 auto;
+    max-width: 1440px;
+    background-color: rgb(231, 235, 216);
+  
+}
+
+.nav{
+    display: flex;
+    margin: 10px;
+}
+.menu-cv {
+    display: flex;
+    width: 100%;
+    align-items:center;
+    margin: 0 auto;
+    padding: 0 16px;
+}
+
+.li-item {
+    list-style: none;
+    margin-right: 20px ;
+}
+
+.container-main {
+    display: flex;
+    justify-content: space-between;
+    margin: 30px auto;
+    padding: 30px;
+    border: brown 1px solid;
+     
+}
+.container-main-left {
+    width: 40%;
+     
+    
+
+}
+.photo {  
+   
+    margin-bottom: 20px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;  
+    padding-top: 20px; 
+}
+
+.contacts{
+     
+    padding: 20px;
+}
+.contact_me {
+    margin-bottom: 15px;
+}
+
+.skills {
+    padding: 20px;    
+}
+
+.title-skills {
+    margin-bottom: 15px;
+}
+.li-all {
+    list-style: none;
+    margin-bottom: 15px ;
+    padding: 0 15px;
+}
+.container-main-right {
+     max-width: 60%;
+}
+.name {
+    /* align-items: center; */
+    margin-bottom: 20px;
+}
+.main-name {
+    text-align: center;
+    padding: 20px;
+}
+
+
+.about {
+}
+
+.goal {
+    margin-bottom: 20px;     
+    padding: 20px;
+}
+.goal-head {
+    margin-bottom: 15px;
+}
+.goal-text {
+    padding: 0 15px
+}
+
+.about-me {
+    margin-bottom: 25px;
+     
+    padding: 20px;
+}
+.about-me-head {
+    margin-bottom: 15px;
+}
+.about-me-text {
+    padding: 0 15px
+}
+
+.inform {
+    display: flex;
+    justify-content:space-evenly;     
+}
+.mini {
+    padding: 10px auto;
+    max-width: 25%;
+    
+}
+.mini-head {
+    padding: 10px auto;
+    margin-bottom: 15px;
+}
+.mini-body {
+    font-size: 16px;
+}
+.eng{
+    text-align: center; 
+}
+
+.code {
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    max-width: 30%;
+}
+
+.foot {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center ;
+}
+.logo-block {
+    width: 100%;
+    max-width: 100px; 
+}
+
+.rs-logo {
+    display: block;
+}
+.git {
+}
+.year {
+}
